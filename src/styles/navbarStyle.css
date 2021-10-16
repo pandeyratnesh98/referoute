@@ -1,0 +1,32 @@
+.logoTextStyle {
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-size: 25px;
+  font-weight: 700;
+  padding: 0px 80px 0px;
+  margin-bottom: 0%;
+}
+.logoSubTextStyle {
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-size: 15px;
+  font-weight: 300;
+  padding: 0px 40px 0px;
+  margin-bottom: 0%;
+  margin-top: -12px;
+}
+.navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+  background: #81a7ff;
+}
+
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 40px;
+}
+
+div.nav-link:hover {
+  color: seashell;
+  cursor: pointer;
+}
